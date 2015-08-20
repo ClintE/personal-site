@@ -20,8 +20,11 @@
 
 }
 #portfolio {
-  background-color: #18bc9c;
+  background-color: #b64e36;
   color: white;
+}
+header {
+  background-color: #b64e36;
 }
 .portfolio-item {
   height: 260px;
@@ -33,5 +36,5 @@
   height: 260px;
 }
 .self {
-  border-radius: 60px;
+  border-radius: 50px;
 }
