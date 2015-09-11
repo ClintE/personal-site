@@ -1,4 +1,9 @@
 /* latin */
+@media (max-width: 768px) {
+  .portfolio-text {
+    display: none;
+  }
+}
 @font-face {
   font-family: 'Montserrat';
   font-style: normal;
