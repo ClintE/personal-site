@@ -1,4 +1,12 @@
 /* latin */
+<<<<<<< HEAD
+=======
+@media (max-width: 768px) {
+  .portfolio-text {
+    display: none;
+  }
+}
+>>>>>>> 2d3828f0b671b083127ee4740afc917d926ba2a0
 @font-face {
   font-family: 'Montserrat';
   font-style: normal;
@@ -37,4 +45,8 @@ header {
 }
 .self {
   border-radius: 50px;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 2d3828f0b671b083127ee4740afc917d926ba2a0
